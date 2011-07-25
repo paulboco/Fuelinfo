@@ -12,11 +12,11 @@ Fuelinfo::all()  - to display all sections except phpinfo.
 
 or for a specific section...
 
-Fuelinfo::routes(); 
-Fuelinfo::request(); 
-Fuelinfo::modules(); 
-Fuelinfo::packages(); 
-Fuelinfo::database(); 
-Fuelinfo::session(); 
-Fuelinfo::config(); 
-Fuelinfo::phpinfo(); 
+Fuelinfo::routes();  
+Fuelinfo::request();  
+Fuelinfo::modules();  
+Fuelinfo::packages();  
+Fuelinfo::database();  
+Fuelinfo::session();  
+Fuelinfo::config();  
+Fuelinfo::phpinfo();  
